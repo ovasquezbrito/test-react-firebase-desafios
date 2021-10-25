@@ -1,0 +1,8 @@
+export const GETPOSTS = "GETPOSTS";
+export const CREATEPOST = "CREATEPOST";
+export const UPDATEPOST = "UPDATEPOST";
+export const DELETEPOST = "DELETEPOST";
+export const LIKEPOST = "LIKEPOST";
+export const GETCOMPANIES = "GETCOMPANIES";
+export const GETBYNAMECOMAPNY = "GETBYNAMECOMAPNY";
+
